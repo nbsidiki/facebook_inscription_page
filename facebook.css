@@ -1,0 +1,71 @@
+#ph1{
+    color: #f1f3f7;
+    top: 75px;
+    position: relative;
+    left: 15px;
+}
+#connexion{
+    left: 620px;
+    position: relative;
+    top: -5px;
+   
+}² */#entête{
+    margin-left: -15px;
+    margin-top: -70px; ;
+    background-color: rgba(48, 48, 161, 0.829);
+     margin-right: -500px;
+
+}
+#label_mail{
+    font-size: 15px;
+    color: white;
+
+}
+#mailC{
+    font-size: large
+}
+#passwordC{
+    font-size: large
+    
+}
+#labelpassword{
+    font-size: 15px;
+    color: white;
+}
+#créer{
+    left: 640px;
+    position: relative;
+    top: -385px;
+
+}
+#ph2{
+    font-size:  50px;
+ color: rgb(1, 1, 14);
+ font-style: oblique;
+}
+#co{
+background-color: rgba(45, 45, 126, 0.603);
+color: white;
+}
+.in{
+    font-size: large
+}
+.par{
+    font-size: 20px;
+    font-family:'Courier New';
+    color: rgb(23, 23, 126);
+}
+
+    
+
+
+#inscri{
+    background-color: rgb(100, 192, 9);
+    color: ghostwhite;
+    font-size: 130%;
+    border: rgb(3, 95, 3);
+}
+#birth{
+    color: rgb(61, 18, 92);
+}
+
